@@ -15,6 +15,7 @@ Data source: election_results.csv
 Software: Python 3.6.1, Visual Studio code 1.38.1
 
 ## Summary
+![Election Results](https://github.com/Mary-Wood/Election_Analysis/blob/main/analysis/Results.png)
 The analysis of the election shows that:
   - There were 369,711 votes cast in the election. 
   - The candidates were: 
